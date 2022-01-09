@@ -1,1 +1,2 @@
-this is a new file in branch dev
+this is a new file in branch dev.
+Added a new line
